@@ -1,7 +1,7 @@
 - Name- Kishor
 - Author - Kishor
 
-### Web Automation Framework with POM in Python(Selenium)
+## Web Automation Framework with POM in Python(Selenium)
 
 - Python,Pytest
 - Selenium
