@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50337630-755b-4052-9e41-dbbeca984660" name="Changes" comment="Created Packages">
+    <list default="true" id="50337630-755b-4052-9e41-dbbeca984660" name="Changes" comment="Added files">
       <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,14 +115,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724847016274</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added files">
+      <option name="closed" value="true" />
+      <created>1724932091223</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724932091223</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Readme File" />
     <MESSAGE value="Readme File." />
     <MESSAGE value="Created Packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Packages" />
+    <MESSAGE value="Added files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
